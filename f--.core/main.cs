@@ -11,6 +11,13 @@ namespace f__.core
 {
     internal class main
     {
+        static void Main(string[] args)
+        {
+            while (true)
+            {
+
+            }
+        }
     }
 }
 /*usings
